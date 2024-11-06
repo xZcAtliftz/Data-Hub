@@ -1,6 +1,6 @@
 if _G.KaitunMode then
     local gamelist = {
-        [994732206] = "https://raw.githubusercontent.com/xZcAtliftz/Seraphic-Scripts/main/Kaitun.lua"
+        [994732206] = "https://raw.githubusercontent.com/xZcAtliftz/Data-Hub/main/Kaitun.lua"
     }
     local checkgame = gamelist[game.gameId]
 
